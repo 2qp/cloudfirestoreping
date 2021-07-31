@@ -1,5 +1,9 @@
 # cloud firestore ping Test
-ping / measuring the time of Firebase Cloud Firestore data retrieval
+
+ping / measuring the time of Firebase Cloud Firestore data retrieval.
+
+create projects with different cloud firestore locations / Regional / multi-Regional ( Data Center Locations ) to compare data retrieval time.
+
 PS : idk if this the correct way to messure it but it is what it is :rage3:
 
 ## Requirements
