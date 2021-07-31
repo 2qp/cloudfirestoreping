@@ -25,6 +25,6 @@ pip install six==1.13.0
 
 EXAMPLE : 
 downloads/us-centraltest/
-                cfping.py
-                privatekey.json
+                -cfping.py
+                -privatekey.json
 - duplicate and compare
