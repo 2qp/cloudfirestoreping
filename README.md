@@ -1,6 +1,6 @@
 # cloud firestore ping Test
 
-ping / measuring the time of Firebase Cloud Firestore data retrieval.
+simeple python script to ping / measuring the time of Firebase Cloud Firestore data retrieval.
 
 create projects with different cloud firestore locations / Regional / multi-Regional ( Data Center Locations ) to compare data retrieval time.
 
