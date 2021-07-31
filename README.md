@@ -1,5 +1,6 @@
 # cloud firestore ping Test
 ping / measuring the time of Firebase Cloud Firestore data retrieval
+PS : idk if this the correct way to messure it but it is what it is :rage3:
 
 ## Requirements
 - Python
